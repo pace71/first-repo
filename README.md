@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>user</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>user</o:LastAuthor>
-  <o:Revision>15</o:Revision>
-  <o:TotalTime>4</o:TotalTime>
+  <o:Revision>19</o:Revision>
+  <o:TotalTime>3</o:TotalTime>
   <o:Created>2018-03-07T16:59:00Z</o:Created>
-  <o:LastSaved>2018-03-08T18:35:00Z</o:LastSaved>
+  <o:LastSaved>2018-03-08T18:36:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>3</o:Words>
-  <o:Characters>18</o:Characters>
+  <o:Words>5</o:Words>
+  <o:Characters>35</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>20</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>39</o:CharactersWithSpaces>
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -32,6 +32,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=colorSchemeMapping href="README.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -338,14 +340,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-font-format:other;
 	mso-font-pitch:variable;
 	mso-font-signature:0 0 0 0 0 0;}
-@font-face
-	{font-family:"<<<<<<< HEAD Times New Roman";
-	panose-1:0 0 0 0 0 0 0 0 0 0;
-	mso-font-charset:0;
-	mso-generic-font-family:roman;
-	mso-font-format:other;
-	mso-font-pitch:auto;
-	mso-font-signature:0 0 0 0 0 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -358,6 +352,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-family:"Times New Roman","serif";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -393,7 +390,13 @@ div.Section1
 	font-family:"Times New Roman","serif";}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="8194"/>
+  &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD  
+</xml><![endif]--><!--[if gte mso 9]><xml>
+  =======  
+</xml><![endif]--><!--[if gte mso 9]><xml>
+  &gt;&gt;&gt;&gt;&gt;&gt;&gt; a0a7eb823808cf04395b781848b8041e3340bf67 
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="10242"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -404,9 +407,13 @@ div.Section1
 
 <div class=Section1>
 
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Times New Roman";
-mso-ansi-language:EN-US'>Nestandartno resheno</span><span lang=EN-US
-style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+<p class=MsoNormal><span class=SpellE><span style='mso-fareast-font-family:
+"Times New Roman"'>Originalno</span></span><span style='mso-fareast-font-family:
+"Times New Roman"'><span '> <span class=SpellE></span>Kratko</span></span><span
+style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'> </span><span
+class=SpellE><span style='mso-fareast-font-family:"Times New Roman"'>reshwnie</span></span><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+EN-US'> <span class=SpellE>nna</span> <span class=SpellE>problema</span><o:p></o:p></span></p>
 
 </div>
 
