@@ -15,28 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>user</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>user</o:LastAuthor>
-  <o:Revision>9</o:Revision>
-<<<<<<< HEAD
-  <o:TotalTime>3</o:TotalTime>
-  <o:Created>2018-03-07T16:59:00Z</o:Created>
-  <o:LastSaved>2018-03-08T18:24:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
-  <o:Words>2</o:Words>
-  <o:Characters>13</o:Characters>
-  <o:Lines>1</o:Lines>
-  <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>14</o:CharactersWithSpaces>
-=======
+  <o:Revision>11</o:Revision>
   <o:TotalTime>2</o:TotalTime>
   <o:Created>2018-03-07T16:59:00Z</o:Created>
-  <o:LastSaved>2018-03-08T18:22:00Z</o:LastSaved>
+  <o:LastSaved>2018-03-08T18:26:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>2</o:Words>
   <o:Characters>14</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
   <o:CharactersWithSpaces>15</o:CharactersWithSpaces>
->>>>>>> f725a3a354edc134b23236bd87c3dc8f81965689
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -44,6 +32,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=colorSchemeMapping href="README.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -400,7 +390,7 @@ div.Section1
 	font-family:"Times New Roman","serif";}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="5122"/>
+ <o:shapedefaults v:ext="edit" spidmax="6146"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -411,15 +401,10 @@ div.Section1
 
 <div class=Section1>
 
-<<<<<<< HEAD
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'>Reshenie dobro<o:p></o:p></span></p>
-=======
-<p class=MsoNormal><span class=SpellE><span class=spelle><span lang=EN-US
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'>Kratko</span></span></span><span
+<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:EN-US'>Kratko</span></span><span
 lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
 EN-US'> <span class=SpellE>reshwnie</span><o:p></o:p></span></p>
->>>>>>> f725a3a354edc134b23236bd87c3dc8f81965689
 
 </div>
 
