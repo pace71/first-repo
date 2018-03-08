@@ -16,6 +16,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Template>Normal</o:Template>
   <o:LastAuthor>user</o:LastAuthor>
   <o:Revision>13</o:Revision>
+<<<<<<< HEAD
   <o:TotalTime>2</o:TotalTime>
   <o:Created>2018-03-07T16:59:00Z</o:Created>
   <o:LastSaved>2018-03-08T18:30:00Z</o:LastSaved>
@@ -25,6 +26,17 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
   <o:CharactersWithSpaces>20</o:CharactersWithSpaces>
+=======
+  <o:TotalTime>3</o:TotalTime>
+  <o:Created>2018-03-07T16:59:00Z</o:Created>
+  <o:LastSaved>2018-03-08T18:29:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>4</o:Words>
+  <o:Characters>23</o:Characters>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>26</o:CharactersWithSpaces>
+>>>>>>> 9bc2eaa5648459eb740a9d7aac1faaf0ff516b93
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -338,6 +350,14 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-font-format:other;
 	mso-font-pitch:variable;
 	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"<<<<<<< HEAD Times New Roman";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:0 0 0 0 0 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -396,8 +416,16 @@ div.Section1
 
 <div class=Section1>
 
+<<<<<<< HEAD
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'>Novo po red reshenie<o:p></o:p></span></p>
+=======
+<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-fareast-font-family:
+"&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Times New Roman";mso-ansi-language:EN-US'>Originalno</span></span><span
+"Times New '><span lang=EN-US style='mso-fareast-font-family:"&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Times New Roman";
+mso-ansi-language:EN-US'> </span><span class=SpellE>Kratko</span></span><span
+style='mso-ansi-language:EN-US'> </span><span class=SpellE>reshwnie</span></p>
+>>>>>>> 9bc2eaa5648459eb740a9d7aac1faaf0ff516b93
 
 </div>
 
