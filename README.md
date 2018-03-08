@@ -16,6 +16,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Template>Normal</o:Template>
   <o:LastAuthor>user</o:LastAuthor>
   <o:Revision>9</o:Revision>
+<<<<<<< HEAD
   <o:TotalTime>3</o:TotalTime>
   <o:Created>2018-03-07T16:59:00Z</o:Created>
   <o:LastSaved>2018-03-08T18:24:00Z</o:LastSaved>
@@ -25,6 +26,17 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
   <o:CharactersWithSpaces>14</o:CharactersWithSpaces>
+=======
+  <o:TotalTime>2</o:TotalTime>
+  <o:Created>2018-03-07T16:59:00Z</o:Created>
+  <o:LastSaved>2018-03-08T18:22:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>2</o:Words>
+  <o:Characters>14</o:Characters>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>15</o:CharactersWithSpaces>
+>>>>>>> f725a3a354edc134b23236bd87c3dc8f81965689
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -350,6 +362,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-family:"Times New Roman","serif";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -396,8 +411,15 @@ div.Section1
 
 <div class=Section1>
 
+<<<<<<< HEAD
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'>Reshenie dobro<o:p></o:p></span></p>
+=======
+<p class=MsoNormal><span class=SpellE><span class=spelle><span lang=EN-US
+style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'>Kratko</span></span></span><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+EN-US'> <span class=SpellE>reshwnie</span><o:p></o:p></span></p>
+>>>>>>> f725a3a354edc134b23236bd87c3dc8f81965689
 
 </div>
 
