@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>user</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>user</o:LastAuthor>
-  <o:Revision>5</o:Revision>
+  <o:Revision>7</o:Revision>
   <o:TotalTime>2</o:TotalTime>
   <o:Created>2018-03-07T16:59:00Z</o:Created>
-  <o:LastSaved>2018-03-08T10:53:00Z</o:LastSaved>
+  <o:LastSaved>2018-03-08T18:20:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>6</o:Words>
-  <o:Characters>37</o:Characters>
+  <o:Words>2</o:Words>
+  <o:Characters>14</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>42</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>15</o:CharactersWithSpaces>
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -390,7 +390,7 @@ div.Section1
 	font-family:"Times New Roman","serif";}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="3074"/>
+ <o:shapedefaults v:ext="edit" spidmax="4098"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -402,9 +402,9 @@ div.Section1
 <div class=Section1>
 
 <p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'>Pesho</span></span><span lang=EN-US
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'> I <span
-class=SpellE>Gosho</span> made change!!!!!!!!!!!!!!!!!<o:p></o:p></span></p>
+"Times New Roman";mso-ansi-language:EN-US'>Kratko</span></span><span
+lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+EN-US'> reshwnie<o:p></o:p></span></p>
 
 </div>
 
