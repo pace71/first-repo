@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>user</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>user</o:LastAuthor>
-  <o:Revision>19</o:Revision>
+  <o:Revision>23</o:Revision>
   <o:TotalTime>3</o:TotalTime>
   <o:Created>2018-03-07T16:59:00Z</o:Created>
-  <o:LastSaved>2018-03-08T18:38:00Z</o:LastSaved>
+  <o:LastSaved>2018-03-08T18:40:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>2</o:Words>
-  <o:Characters>12</o:Characters>
+  <o:Words>3</o:Words>
+  <o:Characters>18</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>13</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>20</o:CharactersWithSpaces>
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -393,7 +393,17 @@ div.Section1
 	font-family:"Times New Roman","serif";}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="10242"/>
+  &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD  
+</xml><![endif]--><!--[if gte mso 9]><xml>
+  =======     &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD    
+</xml><![endif]--><!--[if gte mso 9]><xml>
+      =======    
+</xml><![endif]--><!--[if gte mso 9]><xml>
+      &gt;&gt;&gt;&gt;&gt;&gt;&gt; a0a7eb823808cf04395b781848b8041e3340bf67   
+</xml><![endif]--><!--[if gte mso 9]><xml>
+  &gt;&gt;&gt;&gt;&gt;&gt;&gt; e680c101126c59bb41c0d4625c90683112c4769a 
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="12290"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -403,6 +413,9 @@ div.Section1
 <body lang=BG style='tab-interval:35.4pt'>
 
 <div class=Section1>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><span
+style='mso-spacerun:yes'>&nbsp;</span>HEAD <o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Times New Roman";
 mso-ansi-language:EN-US'>Problema dawn</span><span lang=EN-US style='mso-ansi-language:
