@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>user</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>user</o:LastAuthor>
-  <o:Revision>19</o:Revision>
+  <o:Revision>21</o:Revision>
   <o:TotalTime>3</o:TotalTime>
   <o:Created>2018-03-07T16:59:00Z</o:Created>
-  <o:LastSaved>2018-03-08T18:36:00Z</o:LastSaved>
+  <o:LastSaved>2018-03-08T18:37:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>5</o:Words>
-  <o:Characters>35</o:Characters>
+  <o:Characters>31</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>39</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>35</o:CharactersWithSpaces>
   <o:Version>12.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
@@ -390,13 +390,13 @@ div.Section1
 	font-family:"Times New Roman","serif";}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
-  &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD  
+    &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD   
 </xml><![endif]--><!--[if gte mso 9]><xml>
-  =======  
+    =======   
 </xml><![endif]--><!--[if gte mso 9]><xml>
-  &gt;&gt;&gt;&gt;&gt;&gt;&gt; a0a7eb823808cf04395b781848b8041e3340bf67 
+    &gt;&gt;&gt;&gt;&gt;&gt;&gt; a0a7eb823808cf04395b781848b8041e3340bf67  
 </xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="10242"/>
+ <o:shapedefaults v:ext="edit" spidmax="11266"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -409,11 +409,11 @@ div.Section1
 
 <p class=MsoNormal><span class=SpellE><span style='mso-fareast-font-family:
 "Times New Roman"'>Originalno</span></span><span style='mso-fareast-font-family:
-"Times New Roman"'><span '> <span class=SpellE></span>Kratko</span></span><span
+"Times New Roman"'><span '> <span class=SpellE>Kratko</span></span></span><span
 style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'> </span><span
 class=SpellE><span style='mso-fareast-font-family:"Times New Roman"'>reshwnie</span></span><span
 lang=EN-US style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
-EN-US'> <span class=SpellE>nna</span> <span class=SpellE>problema</span><o:p></o:p></span></p>
+EN-US'> <span class=SpellE>na</span> kursa<o:p></o:p></span></p>
 
 </div>
 
