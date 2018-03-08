@@ -24,12 +24,16 @@ Scanner scanner=new Scanner(System.in);
         }
         }
         if(ctr>=4){
-        System.out.printf("PASS IS %s%s%s%s ",a,b,c,d);
+        
        
         }else{
         System.out.println("Nqma PASS ")
 
 
 Scanner scanner=new Scanner(System.in)
+<<<<<<< HEAD
         System.out.printf("PASS IS %s%s%s%s ",a,b,c,d);
 
+=======
+System.out.printf("PASS IS %s%s%s%s ",a,b,c,d);
+>>>>>>> d43e9515e908b809b2a491a2fbb85bcaa1690c50
