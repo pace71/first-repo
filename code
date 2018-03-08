@@ -1,4 +1,4 @@
-
+int num=Integer.parseInt(scanner.nextLine());
 Scanner scanner=new Scanner(System.in);
         int num=Integer.parseInt(scanner.nextLine());
         int a=0;
