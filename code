@@ -25,4 +25,7 @@ Scanner scanner=new Scanner(System.in);
         System.out.printf("PASS IS %s%s%s%s ",a,b,c,d);
        
         }else{
-        System.out.println("Nqma PASS ");
+        System.out.println("Nqma PASS ")
+
+
+Scanner scanner=new Scanner(System.in)
