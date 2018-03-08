@@ -29,3 +29,5 @@ Scanner scanner=new Scanner(System.in);
 
 
 Scanner scanner=new Scanner(System.in)
+        System.out.printf("PASS IS %s%s%s%s ",a,b,c,d);
+
